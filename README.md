@@ -45,4 +45,4 @@ I built the platform using PHP, MySQL, JavaScript, HTML, and CSS, with particula
 
 ServaCibum is currently being tested in preparation for a controlled community pilot.
 
-### [Sugar Code It](https://github
+### [Sugar Code It](https://github.com/mohidlatif/sugarcodeitclub)

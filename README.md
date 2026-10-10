@@ -46,3 +46,30 @@ I built the platform using PHP, MySQL, JavaScript, HTML, and CSS, with particula
 ServaCibum is currently being tested in preparation for a controlled community pilot.
 
 ### [Sugar Code It](https://github.com/mohidlatif/sugarcodeitclub)
+**Vice President and Webmaster | Webmaster: May 2025–Present; Vice President: August 2026–Present**
+
+Sugar Code It is a student-led STEM club at Clements High School focused on Arduino, programming, electronics, and engineering through hands-on projects.
+
+I designed and maintain the club website using HTML, CSS, JavaScript, PHP endpoints, and JSON-based content. I also help teach technical concepts, organize the syllabus and project curriculum, and guide members through engineering projects and troubleshooting.
+
+[Club website](https://sugar-code-it.com)
+
+## Technical Skills
+
+**Programming:** R, Java, Python, PHP, JavaScript, SQL, HTML, CSS
+
+**Research and analysis:** Statistical modeling, microbiome analysis, pedigree simulation, microbial diversity analysis, data visualization
+
+**Tools:** RStudio, R Markdown, ggplot2, igraph, ggraph, Git, GitHub, MySQL
+
+## Outside Research
+
+I've studied Latin for several years and enjoy both the language and its literature. I also write and record original Latin-language music under the name TH3RUGG3D.
+
+Outside schoolwork, I teach Java to younger students through Steel City Codes and enjoy volunteering, swimming, and scuba diving.
+
+## Contact
+
+**Email:** latifmohid@outlook.com
+
+**GitHub:** [github.com/mohidlatif](https://github.com/mohidlatif)

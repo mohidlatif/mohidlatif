@@ -2,35 +2,37 @@
 
 I'm a junior at Clements High School in Sugar Land, Texas, interested in computational biology, bioinformatics, and software development.
 
-I enjoy using programming to investigate biological questions, particularly when the answers aren't immediately obvious from the data. Most of my research involves R, Java, and Python, whether that's simulating genetic inheritance or analyzing microbiome datasets.
+I enjoy using programming to investigate biological questions, especially when incomplete information or underlying assumptions can make the results difficult to interpret. Most of my research involves R and Java, although I also work with Python and web technologies.
 
-I also enjoy building practical software, teaching programming, and exploring interests outside STEM.
+Outside research, I enjoy building practical software, teaching programming, and pursuing interests beyond STEM.
 
 ## Research
 
 ### Gut Microbiome and Chronic Kidney Disease
 **Virginia Bioanalytics | Bioinformatics Research Intern | June 2026–Present**
 
-I'm working with a research team investigating gut microbiome differences between patients with chronic kidney disease (CKD) and healthy controls, including variation across racial and ethnic groups.
+I'm working with a research team investigating differences in gut microbiome composition between patients with chronic kidney disease (CKD) and healthy controls, including variation across racial and ethnic groups.
 
 My work has involved:
-- Preparing and analyzing microbiome and clinical datasets using R.
+- Preparing and analyzing microbiome abundance data and clinical metadata using R.
 - Performing nearest-neighbor matching and statistical comparisons between study populations.
 - Analyzing microbial diversity and community composition using Shannon, Simpson, Bray–Curtis, PERMANOVA, and regression models.
-- Creating heatmaps, network visualizations, and other figures to communicate results.
+- Developing heatmaps, network visualizations, and other figures to communicate analytical results.
 
-I've also contributed to the analysis and preparation of an ongoing collaborative research manuscript.
+I've also contributed analyses, figures, and methodological documentation to a collaborative research manuscript currently being prepared and revised.
 
-### Traitle — Computational Genetics
-**Independent Research | January 2025–Present**
+### Traitle — Computational Genetics Research
+**Independent Research | May 2025–Present**
 
-Traitle investigates how incomplete penetrance affects the interpretation of genetic pedigrees.
+My independent research investigates how incomplete penetrance affects the interpretation of genetic pedigrees and the identification of inheritance patterns.
 
-I developed a Java simulation framework to model different inheritance patterns and used R to analyze how changes in penetrance affect the ability to identify the underlying mode of inheritance.
+Using a Java-based simulation framework, I generate pedigrees under different inheritance models and examine how changes in penetrance affect the number and types of inheritance patterns compatible with the observed pedigree.
 
-One of the more interesting parts of the project has been examining how individuals who carry a disease-associated genotype but show no symptoms can change the interpretation of an entire pedigree.
+I use R for statistical analysis and visualization of the simulation results.
 
-I'm currently developing the findings into a research manuscript.
+The project builds on my interest in pedigree interpretation, which originally led me to create Traitle, an interactive genetics game, in January 2025.
+
+**The [original Traitle game](https://github.com/mohidlatif/traitle) and the computational research are separate projects.** The research simulation and analysis are not currently presented as a public code release, and the findings are being developed into a manuscript.
 
 ## Projects
 
@@ -48,7 +50,9 @@ ServaCibum is currently being tested in preparation for a controlled community p
 [Project website](https://servacibum.org)
 
 ### [Sugar Code It](https://github.com/mohidlatif/sugarcodeitclub)
-**Vice President and Webmaster | Webmaster: May 2025–Present; Vice President: August 2026–Present**
+**Vice President and Webmaster**
+
+*Webmaster: May 2025–Present | Vice President: August 2026–Present*
 
 Sugar Code It is a student-led STEM club at Clements High School focused on Arduino, programming, electronics, and engineering through hands-on projects.
 
